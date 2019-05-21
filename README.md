@@ -40,6 +40,8 @@ The goal of DeepCellLineage is to find characteristics of cells that may relate 
 
 - Kerrigan Blake [LinkedIn](https://www.linkedin.com/in/kerrigan-blake-486146a9/)
 - Nicholas Pervolarakis [LinkedIn](https://www.linkedin.com/in/nicholas-pervolarakis-060110a4/)
+- Quy Nguyen [LinkedIn]()
+- Ryan Davis [LinkedIn](https://www.linkedin.com/in/ryan-davis-1b5629106/)
 - Molly Beavers [LinkedIn](https://www.linkedin.com/in/molly-beavers-651025118/)
 - Nicolas Tilmans [LinkedIn](https://www.linkedin.com/in/ntilmans/)
 - Kim Tram [LinkedIn](https://www.linkedin.com/in/kim-tram/)
