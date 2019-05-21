@@ -61,7 +61,7 @@ Some of us meet up at SF Python's Project Night every 3rd Wednesday of the month
 ### Online
 
 #### Slack
-Communicate with the Deep_scLT group through [sfbayfastai's Slack Workspace](http://bit.ly/JoinSlackFastaiSFbay) (#deepcelllineage channel)
+Communicate with the DeepCellLineage group through [sfbayfastai's Slack Workspace](http://bit.ly/JoinSlackFastaiSFbay) (#deepcelllineage channel)
 
 #### Github
 Read and comment on the issues or project tabs for each repo
