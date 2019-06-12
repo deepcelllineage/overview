@@ -56,7 +56,11 @@ You can join the DeepCellLineage project at any level of commitment. If you are 
 ## Communication
 
 ### In person (San Francisco, CA, USA)
-Some of us meet up at SF Python's Project Night every 3rd Wednesday of the month, 6-9 pm. Check out the [SF Python meetup page](https://www.meetup.com/SFpython/events/) for more info. (Free pizza and drinks are provided.)
+The best way to join the project is to join us at SF Python's Project Night. Project night is every 3rd Wednesday of the month, 6-9 pm. Check out the [SF Python meetup page](https://www.meetup.com/SFpython/events/) for more info. (Free pizza and drinks are provided.)
+
+You can also find us at the following meetups
+  - [PyLadies fastai DLSG, meets every Tuesday, 6-8:30](https://www.meetup.com/PyLadiesSF/events/)
+  - [Bay Bioinformatics Forum, meets once a month](https://www.meetup.com/BayBIFX/events/)
 
 
 ### Online
