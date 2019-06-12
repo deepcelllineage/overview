@@ -27,20 +27,21 @@ The goal of DeepCellLineage is to find characteristics of cells that may relate 
 ## Collaborators
 
 - Cancer researchers [Assistant Professor Devon Lawson](http://lawsonlab.org) and [Assistant Professor Kai Kessenbrock](http://kessenbrocklab.com/), who are in the School of Medicine at UC Irvine
-- The [Wicklow AI in Medicine Research Initiative (WAMRI)](https://wamri.ai/), launched by USF in 2018
+- The [Wicklow AI in Medicine Research Initiative (WAMRI)](https://wamri.ai/)
 
 ## Maintainers
 
 - Deena Blumenkrantz [LinkedIn](https://www.linkedin.com/in/deena-blumenkrantz/)
 - Serge Mankovski [LinkedIn](https://www.linkedin.com/in/smankovski/)
 - Sasha (Yating) Sheng [LinkedIn](https://www.linkedin.com/in/sasha-sheng-20998435/)
+- Fred Monroe [WAMRI Profile](https://wamri.ai/)
 
 
 ## Contributors
 
 - Kerrigan Blake [LinkedIn](https://www.linkedin.com/in/kerrigan-blake-486146a9/)
 - Nicholas Pervolarakis [LinkedIn](https://www.linkedin.com/in/nicholas-pervolarakis-060110a4/)
-- Quy Nguyen [LinkedIn]()
+- Quy Nguyen [Lab Profile](http://kessenbrocklab.com/people/)
 - Ryan Davis [LinkedIn](https://www.linkedin.com/in/ryan-davis-1b5629106/)
 - Molly Beavers [LinkedIn](https://www.linkedin.com/in/molly-beavers-651025118/)
 - Nicolas Tilmans [LinkedIn](https://www.linkedin.com/in/ntilmans/)
