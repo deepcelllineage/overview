@@ -28,9 +28,13 @@ The goal of DeepCellLineage is to find characteristics of cells that may relate 
 
 ### Collaborators
 
-- Cancer researchers in UC Irvine's School of Medicine [Assistant Professor Devon Lawson](http://lawsonlab.org) and [Assistant Professor Kai Kessenbrock](http://kessenbrocklab.com/)
-  - https://github.com/lawsonlab
-  - https://github.com/kessenbrocklab
+Cancer researchers at UC Irvine's School of Medicine 
+- Assistant Professor Devon A. Lawson 
+  - [Lab Webpage](http://lawsonlab.org) 
+  - [Github Link](https://github.com/lawsonlab) 
+- Assistant Professor Kai Kessenbrock 
+  - [Lab Webpage](http://kessenbrocklab.com/) 
+  - [Github Link](https://github.com/kessenbrocklab)
 
 
 ### Maintainers
