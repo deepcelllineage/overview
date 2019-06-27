@@ -1,8 +1,8 @@
 # Overview of DeepCellLineage
-The 'overview' repo will hold a general description of the DeepCellLineage group's goal, methods, projects, maintainers, contributors, communication channels, key concepts, FAQs, etc. For more information, please see the READMEs and Wikis of this overview repo and other deepcelllineage project repos. 
+The 'overview' repo will hold a general description of the DeepCellLineage group's goal, methods, projects, maintainers, contributors, communication channels, key concepts, FAQs, etc. For more information, please see the [wiki of this overview repo](https://github.com/deepcelllineage/overview/wiki) and other deepcelllineage project repos and wikis. 
 
 ## What is DeepCellLineage?
-DeepCellLineage is a group of people who are teaching themselves bioinformatics and deep learning by doing projects related to cell biology. 
+DeepCellLineage is a group of people who are teaching themselves bioinformatics, machine and deep learning by doing projects related to cell biology. 
 
 ## Goal
 The goal of DeepCellLineage is to find characteristics of cells that may relate to development or progression of cancer, autoimmune, or neurological diseases.
